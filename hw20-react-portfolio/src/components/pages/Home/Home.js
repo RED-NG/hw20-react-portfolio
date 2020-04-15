@@ -1,6 +1,7 @@
 import React from "react";
 import Navbar from "../../Navbar/Navbar";
 import "./Home.css";
+import Sidebar from "../../Sidebar/Sidebar";
 
 function Home() {
   return (
@@ -17,11 +18,17 @@ function Home() {
               A full stack web developer from the UTM Mississauga Coding
               Bootcamp program, I build websites and applications for fun.
             </h5>
-            
-            <button type="button" class="btn-large btn-dark" id="home-page-btn">
-              Get In Touch
-            </button>
+            <a href="#contact">
+              <button
+                type="button"
+                class="btn-large btn-dark"
+                id="home-page-btn"
+              >
+                Get In Touch
+              </button>
+            </a>
           </div>
+          <Sidebar />
         </div>
       </div>
     </nav>

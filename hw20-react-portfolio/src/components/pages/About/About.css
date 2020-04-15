@@ -1,0 +1,28 @@
+#about {
+  background-color: white;
+  /* background-image: url("./img/portfolio-background-header.jpg"); */
+  height: 800px;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.aboutTitle {
+  font-size: 40px;
+  display: inline-block;
+  background-color: yellow;
+  box-shadow: grey 0px 0px 10px;
+  color: inherit;
+  border-width: initial;
+  border-style: none;
+  border-color: initial;
+  border-image: initial;
+  border-radius: 0.5rem;
+  padding: 20px;
+  margin: 30px !important;
+}
+
+.aboutDiv {
+  text-align: center;
+}
