@@ -1,0 +1,46 @@
+.background-image {
+  background-color: cadetblue;
+  height: 937px;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+h2 {
+  padding-top: 10rem;
+  font-family: "Yanone Kaffeesatz", serif;
+  color: black;
+  text-align: left;
+  font-size: 25px;
+  text-shadow: 0.5px 0.5px white;
+}
+
+h1 {
+  font-family: "Yanone Kaffeesatz", serif;
+  text-align: left;
+  font-size: 100px;
+  color: black;
+  text-shadow: 1px 1px white;
+}
+
+#name {
+  color: orange;
+  text-shadow: 2px 2px black;
+  text-decoration: underline;
+}
+
+.introduction {
+  display: inline-block;
+  text-align: left;
+  padding: 150px 0px;
+}
+
+#home-page-btn {
+  margin-top: 2rem;
+  border-radius: 1rem;
+}
+
+h5 {
+  color: black;
+}
