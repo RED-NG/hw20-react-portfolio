@@ -17,6 +17,7 @@ function Home() {
               A full stack web developer from the UTM Mississauga Coding
               Bootcamp program, I build websites and applications for fun.
             </h5>
+            
             <button type="button" class="btn-large btn-dark" id="home-page-btn">
               Get In Touch
             </button>
