@@ -11,7 +11,7 @@
 .aboutTitle {
   font-size: 40px;
   display: inline-block;
-  background-color: yellow;
+  background-color: orange;
   box-shadow: grey 0px 0px 10px;
   color: inherit;
   border-width: initial;
@@ -30,7 +30,7 @@
 
 .about-me-text-div {
   display: inline-block;
-  background-color: yellow;
+  background-color: orange;
   box-shadow: grey 0px 0px 10px;
   color: rgb(0, 0, 0);
   border-width: initial;
@@ -60,7 +60,8 @@
 }
 
 .contactInfoDiv {
-  text-align: left;
+  text-align: center;
+  display: inline-block;
 }
 
 .container {
@@ -71,6 +72,19 @@
   width: 50%;
 }
 
-a {
-  color: black;
+#profilePic {
+  height: 280px;
+  border-radius: 1rem;
+  padding: 1px;
+  border: 1px solid #021a40;
+  float: left;
+  margin-left: 2rem;
+}
+
+.dotted {
+  margin-top: 4rem;
+}
+
+.about-me-content {
+  margin-top: 1rem;
 }
