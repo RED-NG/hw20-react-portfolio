@@ -1,5 +1,6 @@
 import React from "react";
 import "./Navbar.css";
+import Resume from "../Resume/Resume2020.pdf";
 
 function Navbar() {
   return (
@@ -31,6 +32,14 @@ function Navbar() {
             </a>
             <a class="nav-item nav-link" href="#contact">
               Contact
+            </a>
+            <a
+              class="nav-item nav-link"
+              href={Resume}
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Resume
             </a>
           </div>
         </div>

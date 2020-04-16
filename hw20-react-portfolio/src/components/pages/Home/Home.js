@@ -14,10 +14,8 @@ function Home() {
             <h2>Hi, my name is</h2>
             <h1 id="name">PHILIP NG</h1>
             {/* <h1>Welcome to my portfolio</h1> */}
-            <h5>
-              A full stack web developer from the UTM Mississauga Coding
-              Bootcamp program, I build websites and applications for fun.
-            </h5>
+            <h5>Full stack web developer</h5>
+            <h5>I build websites and applications</h5>
             <a href="#contact">
               <button
                 type="button"

@@ -1,7 +1,7 @@
 #about {
-  background-color: white;
-  /* background-image: url("./img/portfolio-background-header.jpg"); */
-  height: 800px;
+  /* background-color: darkslategray; */
+  background-image: url("./img/about-bgpic.jpg");
+  height: 100%;
   background-position: center center;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -20,9 +20,57 @@
   border-image: initial;
   border-radius: 0.5rem;
   padding: 20px;
-  margin: 30px !important;
+  margin-bottom: 35px !important;
+  margin-top: 50px !important;
 }
 
-.aboutDiv {
+.parentDiv {
   text-align: center;
+}
+
+.about-me-text-div {
+  display: inline-block;
+  background-color: yellow;
+  box-shadow: grey 0px 0px 10px;
+  color: rgb(0, 0, 0);
+  border-width: initial;
+  border-style: none;
+  border-color: initial;
+  border-image: initial;
+  border-radius: 0.5rem;
+  padding: 1.5rem;
+  margin: 0px !important;
+  width: 65%;
+}
+
+.text-container {
+  text-align: center;
+}
+
+.contactH2 {
+  text-align: center;
+  padding-top: 0;
+  padding-bottom: 1rem;
+  margin-top: 2rem;
+  /* text-decoration: underline; */
+}
+
+.dotted {
+  padding-top: 1rem;
+}
+
+.contactInfoDiv {
+  text-align: left;
+}
+
+.container {
+  width: 41%;
+}
+
+.resumeSpan {
+  width: 50%;
+}
+
+a {
+  color: black;
 }
