@@ -11,8 +11,8 @@ function Home() {
         <Navbar />
         <div class="container text-center text-white">
           <div className="introduction">
-            <h2>Hi, my name is</h2>
-            <h1 id="name">PHILIP NG</h1>
+            <h2 id="hello">Hi, my name is</h2>
+            <h1 id="nameSake">PHILIP NG</h1>
             {/* <h1>Welcome to my portfolio</h1> */}
             <h5>Full stack web developer</h5>
             <h5>I build websites and applications</h5>

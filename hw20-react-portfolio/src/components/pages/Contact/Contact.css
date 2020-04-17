@@ -1,6 +1,6 @@
-#about {
+.background-image-contact {
   /* background-color: darkslategray; */
-  background-image: url("./img/about-bgpic.jpg");
+  background-image: url("./img/N9oBIc.png");
   height: 100%;
   background-position: center center;
   background-repeat: no-repeat;
@@ -8,28 +8,34 @@
   background-size: cover;
 }
 
-.aboutTitle {
+#contact {
+  text-align: center;
+  padding-top: 2rem;
+}
+
+.contactH2 {
+  padding-top: 0;
+  padding-bottom: 1rem;
+  margin-top: 2rem;
   font-size: 40px;
-  display: inline-block;
   background-color: orange;
   box-shadow: grey 0px 0px 10px;
-  color: inherit;
-  border-width: initial;
-  border-style: none;
-  border-color: initial;
-  border-image: initial;
   border-radius: 0.5rem;
   padding: 20px;
   margin-bottom: 35px !important;
   margin-top: 50px !important;
   border: 5px solid black;
-}
-
-.parentDiv {
+  width: 35%;
+  margin: auto;
   text-align: center;
 }
 
-.about-me-text-div {
+.h2TitleDiv {
+  text-align: center;
+}
+
+.container-contact {
+  width: 41%;
   display: inline-block;
   background-color: orange;
   box-shadow: grey 0px 0px 10px;
@@ -41,27 +47,14 @@
   border-radius: 0.5rem;
   padding: 1.5rem;
   margin: 0px !important;
-  width: 65%;
   border: 5px solid black;
+  text-align: left;
 }
 
-.text-container {
-  text-align: center;
+a.link {
+  color: black !important;
 }
 
-#profilePic {
-  height: 280px;
-  border-radius: 1rem;
-  padding: 1px;
-  border: 1px solid #021a40;
-  float: left;
-  margin-left: 2rem;
-}
-
-.dotted {
-  margin-top: 4rem;
-}
-
-.about-me-content {
-  margin-top: 1rem;
+#submitBtn {
+  color: white;
 }

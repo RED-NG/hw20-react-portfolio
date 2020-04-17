@@ -8,7 +8,7 @@
   background-size: cover;
 }
 
-h2 {
+#hello {
   padding-top: 10rem;
   font-family: "Yanone Kaffeesatz", serif;
   color: black;
@@ -17,18 +17,14 @@ h2 {
   text-shadow: 0.5px 0.5px black;
 }
 
-h1 {
-  font-family: "Yanone Kaffeesatz", serif;
-  text-align: left;
-  font-size: 100px;
-  color: black;
-  text-shadow: 1px 1px white;
-}
-
-#name {
+#nameSake {
   color: orange;
   text-shadow: 2px 2px black;
   text-decoration: underline;
+  font-family: "Yanone Kaffeesatz", serif;
+  text-align: left;
+  font-size: 100px;
+  text-shadow: 1px 1px white;
 }
 
 .introduction {

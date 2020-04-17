@@ -26,6 +26,7 @@ body {
   padding: 20px;
   margin-bottom: 35px !important;
   margin-top: 50px !important;
+  border: 5px solid black;
 }
 
 .primaryBtn {
@@ -47,7 +48,7 @@ body {
 }
 
 .card-col {
-  padding-left: 6.5rem;
+  margin-left: 6.5rem;
 }
 
 .card-body {

@@ -43,51 +43,6 @@ function About() {
               </div>
             </div>
           </div>
-          <hr class="dotted" />
-          <h2 className="contactH2">
-            Here are some of the ways you can contact me:
-          </h2>{" "}
-          <div className="container">
-            <div className="contactInfoDiv text-left m-auto col-lg-6 col-md-6 col-sm-6 col-6">
-              <p>
-                <b>Email: </b>
-                <a
-                  className="link"
-                  href="phil__n@hotmail.com"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  &nbsp; phil__n@hotmail.com
-                </a>
-              </p>
-              <p>
-                <b>Phone: </b>
-                <span> &nbsp;416-831-2891</span>
-              </p>
-              <p>
-                <b>Github : </b>
-                <a
-                  className="link"
-                  href="https://github.com/red-ng"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  &nbsp;https://github.com
-                </a>
-              </p>
-              <p>
-                <b>Linkedin : </b>
-                <a
-                  className="link"
-                  href="https://www.linkedin.com/in/philip-ng-b68b6693/"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  &nbsp; www.linkedin.com
-                </a>
-              </p>
-            </div>
-          </div>
         </div>
       </div>
     </section>
