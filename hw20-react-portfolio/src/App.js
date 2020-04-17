@@ -4,7 +4,7 @@ import Home from "./components/pages/Home/Home";
 import About from "./components/pages/About/About";
 import "bootstrap/dist/css/bootstrap.min.css";
 // import Contact from "./components/pages/Contact/Contact";
-// import Portfolio from "./components/pages/Portfolio/Portfolio";
+import Portfolio from "./components/pages/Portfolio/Portfolio";
 
 function App() {
   return (
@@ -13,6 +13,7 @@ function App() {
         <Navbar />
         <Home />
         <About />
+        <Portfolio />
       </div>
     </div>
   );

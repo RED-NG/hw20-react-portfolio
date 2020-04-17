@@ -52,6 +52,7 @@ function About() {
               <p>
                 <b>Email: </b>
                 <a
+                  className="link"
                   href="phil__n@hotmail.com"
                   target="_blank"
                   rel="noopener noreferrer"
@@ -66,6 +67,7 @@ function About() {
               <p>
                 <b>Github : </b>
                 <a
+                  className="link"
                   href="https://github.com/red-ng"
                   target="_blank"
                   rel="noopener noreferrer"
@@ -76,6 +78,7 @@ function About() {
               <p>
                 <b>Linkedin : </b>
                 <a
+                  className="link"
                   href="https://www.linkedin.com/in/philip-ng-b68b6693/"
                   target="_blank"
                   rel="noopener noreferrer"

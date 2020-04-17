@@ -22,6 +22,7 @@
   padding: 20px;
   margin-bottom: 35px !important;
   margin-top: 50px !important;
+  border: 5px solid black;
 }
 
 .parentDiv {
@@ -41,6 +42,7 @@
   padding: 1.5rem;
   margin: 0px !important;
   width: 65%;
+  border: 5px solid black;
 }
 
 .text-container {
@@ -68,10 +70,6 @@
   width: 41%;
 }
 
-.resumeSpan {
-  width: 50%;
-}
-
 #profilePic {
   height: 280px;
   border-radius: 1rem;
@@ -87,4 +85,8 @@
 
 .about-me-content {
   margin-top: 1rem;
+}
+
+a.link {
+  color: black !important;
 }
