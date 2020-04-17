@@ -1,1 +1,1 @@
-![](portfolio-demo.gif)
+Portfolio demo: ![](portfolio-demo.gif)
