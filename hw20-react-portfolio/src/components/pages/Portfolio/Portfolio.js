@@ -8,7 +8,6 @@ import Password from "./img/password-generator.png";
 import Note from "./img/note-taker.png";
 import List from "./img/to-do-list.png";
 
-
 function Portfolio() {
   return (
     <div className="container" id="portfolio">
@@ -100,7 +99,7 @@ function Portfolio() {
                     </Card.Text>
                     <Button
                       className="primaryBtn"
-                      href="https://red-ng.github.io/hw7-project-1/"
+                      href="https://github.com/RED-NG/hw7-project-1"
                       variant="primary"
                     >
                       Github
